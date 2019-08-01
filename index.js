@@ -14,6 +14,5 @@ string=string.toLowerCase()
 console.log (string);
 }
 function sayHiToGrandma(string) {
-string=string.toLowerCase();
-return string.toLowerCase()
+return string.toLowerCase();
 }
